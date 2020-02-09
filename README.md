@@ -2,11 +2,11 @@
 Analysis on 2019 NYC Airbnb Data
 ## Installation
 This project uses the following Python libraries under Python version 3.7:
-  Pandas, 
-  Numpy, 
-  Matplotlib, 
-  Seaborn, 
-  Scikit-learn
+  `Pandas` 
+  `Numpy` 
+  `Matplotlib` 
+  `Seaborn` 
+  `Scikit-learn`
 
 Clone this repo to your local machine using ```$ git clone https://github.com/Luna-github/Airbnb_NYC_2019```. 
 
@@ -28,6 +28,10 @@ The busiest hosts are hosts who have multiple listings and whose listings are ve
 
 #### The Price Prediction
 Based on two categorical variables and four numerical variables, the linear regression model has an R-squared on the test data as 0.09. 
+
+## Author
+Luna Li
+Github: https://github.com/Luna-github
 
 ## License
 Usage is provided under the [MIT License](../blob/master/LICENSE). See LICENSE for the full details.
