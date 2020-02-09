@@ -30,4 +30,4 @@ The busiest hosts are hosts who have multiple listings and whose listings are ve
 Based on two categorical variables and four numerical variables, the linear regression model has an R-squared on the test data as 0.09. 
 
 ## License
-Usage is provided under the MIT License. See LICENSE for the full details.
+Usage is provided under the [MIT License](../blob/master/LICENSE). See LICENSE for the full details.
