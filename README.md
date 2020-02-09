@@ -6,9 +6,9 @@ This project uses the following Python libraries under Python version 3.7:
   Numpy, 
   Matplotlib, 
   Seaborn, 
-  Sklearn
+  Scikit-learn
 
-Clone this repo to your local machine using `https://github.com/Luna-github/Airbnb_NYC_2019`. 
+Clone this repo to your local machine using ```https://github.com/Luna-github/Airbnb_NYC_2019```. 
 
 ## Project Motivation
 This project analyzes 2019 NYC Airbnb data to explore the differences in price and availability among different area groups in NYC, to identify the busiest hosts in NYC, and to build up a preliminary linear regression model to predict the listing price of each listing. 
