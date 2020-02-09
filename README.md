@@ -8,13 +8,13 @@ This project uses the following Python libraries under Python version 3.7:
   Seaborn, 
   Sklearn
 
-Clone this repo to your local machine using [https://github.com/Luna-github/Airbnb_NYC_2019]. 
+Clone this repo to your local machine using `https://github.com/Luna-github/Airbnb_NYC_2019`. 
 
 ## Project Motivation
 This project analyzes 2019 NYC Airbnb data to explore the differences in price and availability among different area groups in NYC, to identify the busiest hosts in NYC, and to build up a preliminary linear regression model to predict the listing price of each listing. 
 
 ## File Descriptions
-AB_NYC_2019.csv: This file contains data that is used in this project, originally from [Kaggle] (https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data).
+AB_NYC_2019.csv: This file contains data that is used in this project, originally from **Kaggle** https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data.
 
 Airbnb_NYC_2019.ipynb: This file is the python file that includes codings used for this project.
 
