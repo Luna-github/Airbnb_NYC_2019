@@ -21,13 +21,13 @@ This project analyzes 2019 NYC Airbnb data to explore the differences in price a
 ## Interactions
 ### Findings
 #### Area Differences
-Mahattan and Brooklyn are two areas that are the most popular among the five boroughs in NYC. Within these two areas, private room is the most popular room type. Mahattan has the greatest list price among the five boroughs in all three room types. 
+Mahattan and Brooklyn are two areas that are the most popular among the five boroughs in NYC. Within these two areas, private room and entire room/apartment are the most popular room types. Mahattan has the greatest listing price among the five boroughs in all three room types. 
 
-#### The Busiest Hosts
-The busiest hosts are hosts who have multiple listings and whose listings are very popular (suggesting a low availability). There are 142 hosts who are identified that has more than or equal to 10 listings over the year and whose listings have less than or equal to ten days' availability. 
+#### The Most Successful Hosts
+In my analysis, I calculate the average revenue for each host in NYC by multiplying the number of days their rooms booked with the list price and averaging this to each listing if the host has more than one listing. I picked those hosts as the most successful with average revenue of $37,497.5 or above. The majority of these most successful hosts have listed their rooms in Manhattan and Brooklyn as entire home/apartment
 
 #### The Price Prediction
-Based on two categorical variables and four numerical variables, the linear regression model has an R-squared on the test data as 0.09. 
+Based on two categorical variables (room type and neighbourhood_group) and six numerical variables (longitude, latitude, reviews_per_month, minimum_nights, availability_365, and calculated_host_listings_count), the linear regression model has an R-squared on the test data as 0.11. 
 
 ## Author
 Luna Li
