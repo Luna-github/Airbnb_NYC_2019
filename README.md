@@ -1,7 +1,8 @@
 # Airbnb_NYC_2019
 Udacity Data Scientist Nanodegree Project
 
-Analysis on 2019 NYC Airbnb Data
+Analysis on 2019 NYC Airbnb Data ([check Medium post](https://medium.com/@cloverlym/these-three-findings-will-help-you-earn-more-money-from-airbnb-hosting-in-nyc-d775846c17b1))
+
 ## Installation
 This project uses the following Python libraries under Python version 3.7:
   `Pandas` 
@@ -32,8 +33,9 @@ In my analysis, I calculate the average revenue for each host in NYC by multiply
 Based on two categorical variables (room type and neighbourhood_group) and six numerical variables (longitude, latitude, reviews_per_month, minimum_nights, availability_365, and calculated_host_listings_count), the linear regression model has an R-squared on the test data as 0.11. 
 
 ## Author
-Luna Li
+Yuemin Li
 Github: https://github.com/Luna-github
+LinkedIn: https://www.linkedin.com/in/yuemin-li-89166333/
 
 ## License
 Usage is provided under the [MIT License](../blob/master/LICENSE). See LICENSE for the full details.
