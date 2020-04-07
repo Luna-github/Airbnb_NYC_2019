@@ -36,6 +36,7 @@ Based on two categorical variables (room type and neighbourhood_group) and six n
 ## Author
 Yuemin Li
 Github: https://github.com/Luna-github
+
 LinkedIn: https://www.linkedin.com/in/yuemin-li-89166333/
 
 ## License
