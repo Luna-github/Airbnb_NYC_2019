@@ -5,6 +5,7 @@ Analysis on 2019 NYC Airbnb Data ([check Medium post](https://medium.com/@clover
 
 ## Installation
 This project uses the following Python libraries under Python version 3.7:
+
   `Pandas` 
   `Numpy` 
   `Matplotlib` 
